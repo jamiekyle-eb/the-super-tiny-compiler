@@ -32,12 +32,9 @@ the nerds are able to understand.
 Awesome! Head on over to the [the-super-tiny-compiler.js](the-super-tiny-compiler.js)
 file.
 
-### I'm back, that didn't make sense
+---
 
-Ouch, I'm really sorry. I'm planning on doing a lot more work on this to add
-inline annotations. If you want to come back when that's done, you can either
-watch/star this repo or follow me on
-[twitter](https://twitter.com/thejameskyle) for updates.
+## Contributing
 
 ### Tests
 
